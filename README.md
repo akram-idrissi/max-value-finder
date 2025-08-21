@@ -62,3 +62,9 @@ echo my_max([-5, [-10, -3], -7]) . PHP_EOL;         // -3
 
 // echo my_max([]);                // InvalidArgumentException
 // echo my_max([[], []]);          // InvalidArgumentException
+```
+
+## Running
+```shell
+php main.php
+```
