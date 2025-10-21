@@ -66,5 +66,5 @@ echo my_max([-5, [-10, -3], -7]) . PHP_EOL;         // -3
 
 ## Running
 ```shell
-php main.php
+php main.php 
 ```
